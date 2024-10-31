@@ -17,7 +17,6 @@ st.write(
     """
 )
 
-# Create a random Pandas dataframe with existing tickets.
 if "df" not in st.session_state:
 
     # Set seed for reproducibility.
